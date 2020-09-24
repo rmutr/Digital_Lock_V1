@@ -29,4 +29,6 @@ GitHub
 
 Other 
 ------------------------------------------------------------------------------- 
+git submodule add https://github.com/rmutr/Digital_Lock_V1_Arduino 'Source code'/Platformio/Digital_Lock_V1_Arduino 
+git submodule add https://github.com/rmutr/Digital_Lock_V1_Flutter 'Source code'/Flutter/Digital_Lock_V1_Flutter 
 
