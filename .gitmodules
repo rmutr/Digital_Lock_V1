@@ -1,6 +1,0 @@
-[submodule "Source code/Platformio/Digital_Lock_V1_Arduino"]
-	path = Source code/Platformio/Digital_Lock_V1_Arduino
-	url = https://github.com/rmutr/Digital_Lock_V1_Arduino
-[submodule "Source code/Flutter/Digital_Lock_V1_Flutter"]
-	path = Source code/Flutter/Digital_Lock_V1_Flutter
-	url = https://github.com/rmutr/Digital_Lock_V1_Flutter
